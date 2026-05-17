@@ -1,0 +1,3 @@
+The MQ probability tables in `src/mq.rs` reproduce the numeric constants found in
+OpenJPEG (`mqc.c`, BSD‑2‑Clause). They are factual tabulations of the JPEG 2000
+standard’s MQ coder state machine.
